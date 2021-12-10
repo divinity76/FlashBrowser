@@ -32,7 +32,8 @@ http://www.kanogames.com/play/game/robokill <br/>
 http://www.stickpage.com  <br/>
 https://dovga.com/games <br/>
 https://www.siftheadsgames.com/Sift-Heads-Renegade-2.html <br/>
-http://web.archive.org/web/20140818215300/http://www.nitrome.com/games/bumpbattleroyale/#.U_J11DO286Q<br/>
+http://web.archive.org/web/20140818215300/http://www.nitrome.com/games/bumpbattleroyale/#.U_J11DO286Q <br/>
+http://swfchan.com/ <br/>
 <!--- #Learn AS3:
 https://www.webfx.com/blog/web-design/flash_tutorial_websites/<br/> -->
 
